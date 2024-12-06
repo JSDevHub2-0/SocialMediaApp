@@ -68,13 +68,13 @@ A full-stack social media app packed with modern features for an engaging user e
 
 ### **1. Clone the Repository**  
 ```bash  
-git clone https://github.com/yourusername/social-media-app.git  
-cd social-media-app  
+git clone https://github.com/JSDevHub2-0/SocialMediaApp  
+cd SocialMediaApp  
 ```  
 
 ### **2. Install Dependencies**  
 ```bash  
-npm install  
+npm i --legacy-peer-deps
 ```  
 
 ### **3. Environment Variables**  
